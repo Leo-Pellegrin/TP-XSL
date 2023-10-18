@@ -1,0 +1,13 @@
+.histoireType {
+    text-align: justify;
+    background-color: gray;
+}
+
+.nouveaute{
+    color: red;
+}
+
+img{
+    max-width: 20%;
+    max-height: 30%;
+}

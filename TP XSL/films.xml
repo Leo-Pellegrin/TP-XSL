@@ -1,0 +1,174 @@
+<?xml-stylesheet href="filmographie.xsl" type="text/xsl" ?>
+<films>
+    <film anneesortie="2005" visa="114089" id="1">
+        <titre>King kong</titre>
+        <nationalite> Americain </nationalite>
+        <exploitation>
+            <datesortie>mercredi 14 décembre 2005</datesortie>
+            <nbentrees>2838759</nbentrees>
+            <nbsalles>547</nbsalles>
+            <listepays>
+                <pays>Allemagne</pays>
+                <pays>Lituanie</pays>
+                <pays>Espagne</pays>
+            </listepays>
+        </exploitation>
+        <acteurs>
+            <acteur ref="1">Peter Jackson</acteur>
+            <acteur ref="2">Naomi Watts</acteur>
+            <acteur ref="3">Jack Black</acteur>
+            <acteur ref="4">Adrien Brody</acteur>
+        </acteurs>
+        <realisateur>Peter Jackson</realisateur>
+        <genres>
+            <genre>Aventure</genre>
+            <genre>Histoire</genre>
+        </genres>
+        <duree unite="min">188</duree>
+        <scenario>
+            <![CDATA[ 
+                New York, 1933. Artiste de music-hall à la rue, Ann Darrow rencontre l'audacieux
+                explorateur/réalisateur Carl Denham. Ce dernier rêve de terminer son lm inachevé, mais nourrit
+                surtout la folle ambition d'être le premier à découvrir le secret de la mystérieuse Skull Island. Il va
+                entraîner Ann dans sa périlleuse aventure...
+             ]]>
+        </scenario>
+        <image ref="./kingkong.jpeg"/>
+    </film>
+    <film anneesortie="2023" visa="160149" id="2">
+        <titre>MYSTÈRE À VENISE</titre>
+        <nationalite> Irlandais </nationalite>
+        <exploitation>
+            <datesortie>mercredi 13 septembre 2023</datesortie>
+            <nbentrees>319319</nbentrees>
+            <nbsalles>579</nbsalles>
+            <listepays>
+                <pays>Allemagne</pays>
+                <pays>Lituanie</pays>
+                <pays>Espagne</pays>
+            </listepays>
+        </exploitation>
+        <acteurs>
+            <acteur ref="125">Kenneth Branagh</acteur>
+            <acteur ref="6">Tina Fey</acteur>
+            <acteur ref="7">Camille Cottin</acteur>
+            <acteur ref="8">Kelly Reilly</acteur>
+        </acteurs>
+        <realisateur>Kenneth Branagh</realisateur>
+        <genres>
+            <genre>Policier</genre>
+            <genre>Drame</genre>
+        </genres>
+        <duree unite="min">104</duree>
+        <scenario>
+                Venise, veille de la Toussaint, quelques années après la fin de la <keyword>Seconde Guerre mondiale</keyword>. 
+                C’est là que vit désormais le célèbre détective <personnage>Hercule Poirot</personnage>, aujourd’hui retraité. 
+                Après avoir consacré sa vie à élucider des crimes et avoir été témoin de ce qu’il y a de pire chez l’être humain, 
+                il a renoncé à sa <ev>vocation d’enquêteur</ev>. Et s’il fait tout pour éviter d’être confronté à des affaires criminelles, 
+                ce sont souvent elles qui le rattrapent…
+                Poirot reçoit chez lui une vieille amie, <personnage>Ariadne Oliver</personnage>, plus grande écrivaine de romans policiers au monde, 
+                qui lui assure que le motif de sa visite n’a aucun rapport avec un crime : 
+                elle souhaiterait qu’il l’accompagne à une séance de spiritisme et lui permette de prouver qu’il s’agit d’une imposture. 
+                Intrigué, <personnage>Poirot</personnage> accepte à contrecœur d’y assister et se retrouve alors dans un palais décrépi et soi-disant hanté, 
+                appartenant à la célèbre cantatrice Rowena Drake. Lorsque l’un des participants est sauvagement assassiné, 
+                toutes les personnes présentes deviennent de potentiels suspects. 
+                Le détective belge se retrouve une nouvelle fois plongé dans un monde sinistre d’ombres et de secrets…
+        </scenario>
+        <image ref="mystereavenise.jpeg"/>
+    </film>
+    <film anneesortie="2023" visa="159800" id="3">
+        <titre>Barbie</titre>
+        <nationalite> Américain </nationalite>
+        <exploitation>
+            <datesortie>mercredi 19 juillet 2023</datesortie>
+            <nbentrees>5678292</nbentrees>
+            <nbsalles>656</nbsalles>
+            <listepays>
+                <pays>Allemagne</pays>
+                <pays>Luxembourg</pays>
+                <pays>Espagne</pays>
+            </listepays>
+        </exploitation>
+        <acteurs>
+            <acteur ref="9">Margot Robbie</acteur>
+            <acteur ref="10">Ryan Gosling</acteur>
+            <acteur ref="11">America Ferrera</acteur>
+            <acteur ref="12">Ariana Greenblatt</acteur>
+        </acteurs>
+        <realisateur>Greta Gerwig</realisateur>
+        <genres>
+            <genre>Aventure</genre>
+            <genre>Comédie</genre>
+        </genres>
+        <duree unite="min">115</duree>
+        <scenario>
+                <keyword>A Barbie Land</keyword>, vous êtes un être parfait dans un monde parfait. Sauf si vous êtes <ev>en crise existentielle</ev>, 
+                ou si vous êtes <personnage>Ken</personnage>.
+        </scenario>
+        <image ref="barbie.jpeg"/>
+    </film>
+    <film anneesortie="2023" visa="159939" id="4">
+        <titre>OPPENHEIMER</titre>
+        <nationalite> Américain </nationalite>
+        <exploitation>
+            <datesortie>mercredi 19 juillet 2023</datesortie>
+            <nbentrees>4259692</nbentrees>
+            <nbsalles>540</nbsalles>
+            <listepays>
+                <pays>Allemagne</pays>
+                <pays>Danemark</pays>
+                <pays>Espagne</pays>
+            </listepays>
+        </exploitation>
+        <acteurs>
+            <acteur ref="1">Jackson Peter</acteur>
+            <acteur ref="14">Emily Blunt</acteur>
+            <acteur ref="15">Matt Damon</acteur>
+        </acteurs>
+        <realisateur>Christopher Nolan</realisateur>
+        <genres>
+            <genre>Histoire</genre>
+            <genre>Horreur</genre>
+        </genres>
+        <duree unite="min">181</duree>
+        <scenario>  
+                En 1942, convaincus que <keyword>l’Allemagne nazie</keyword> est en train de développer une arme nucléaire, 
+                les États-Unis initient, dans le plus grand secret, le "Projet Manhattan" destiné à 
+                mettre au point <ev>la première bombe atomique de l’histoire.</ev> 
+                Pour piloter ce dispositif, le gouvernement engage <personnage>J. Robert Oppenheimer</personnage>, brillant physicien, 
+                qui sera bientôt surnommé "le père de la bombe atomique". 
+                C’est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, 
+                que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, 
+                vertigineuses, continuent de peser sur le monde actuel…
+        </scenario>
+        <image ref="oppenheimer.webp"/>
+    </film>
+    <acteurDescription id="1">
+        <nom>Jackson </nom> 
+        <prenom>Peter </prenom>
+        <dateNaissance>14/02/1931</dateNaissance>
+        <lieuNaissance>Londres</lieuNaissance>
+        <sexe>M</sexe>
+    </acteurDescription>
+    <acteurDescription id="2">
+        <nom>Watts </nom>
+        <prenom>Naomi </prenom>
+        <dateNaissance>11/05/1999</dateNaissance>
+        <lieuNaissance>New York</lieuNaissance>
+        <sexe>F</sexe>
+    </acteurDescription> 
+    <acteurDescription id="3">
+        <nom>Jack </nom>
+        <prenom>Black </prenom>
+        <dateNaissance>19/12/1978</dateNaissance>
+        <lieuNaissance>New York</lieuNaissance>
+        <sexe>M</sexe>
+    </acteurDescription>
+    <acteurDescription id="4">
+        <nom>Brody </nom>
+        <prenom>Adrien </prenom>
+        <dateNaissance>19/12/1988</dateNaissance>
+        <lieuNaissance>Paris</lieuNaissance>
+        <sexe>M</sexe>
+    </acteurDescription>
+</films>
